@@ -10,8 +10,6 @@ This project provides a basic RESTful API to manage user information using Flask
 - [Installation](#installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -47,8 +45,8 @@ Flask-CORS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/user-management-api.git
-   cd user-management-api
+   git clone https://github.com/Charbelto/lab5-charbeltoumieh
+   cd lab5-charbeltoumieh
    ```
 
 2. Install dependencies:
